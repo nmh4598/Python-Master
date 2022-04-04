@@ -17,6 +17,10 @@ https://www.thecanadianencyclopedia.ca/en/browse/things.
 - Cette méthode  affiche un nuage de tags pour le document d’indice numdoc. L’importance des mots sur le nuage est donné par la mesure tf-idf. On utilisera le
 module Python « wordcloud » pour la représentation des nuages de mots.
 - Voici un exemple de nuage de mots construit pour le premier document du thème Politics & Law/Commissions & Reports, qui porte sur l’architecture des aéroports.
+<div align="center">
+<img src="https://github.com/nmh4598/Python-Master/blob/main/S2/Text%20Mining/nuagedemots.png?raw=true" width="45%" style="min-height:'250px'"/>
+</div>
+
 ### 3. nMostSimilar(numDoc, N) 
 - Cette méthode prend en entrée un numéro de document et qui renvoie les titres des N documents les plus similaires à ce document. Pour calculer la
 similarité, on utilisera une similarité cosinus entre les vecteurs td-idf des documents.
