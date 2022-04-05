@@ -16,7 +16,7 @@ https://www.thecanadianencyclopedia.ca/en/browse/things.
 ### 2. wordCloud(numDoc) 
 - Cette méthode  affiche un nuage de tags pour le document d’indice numdoc. L’importance des mots sur le nuage est donné par la mesure tf-idf. On utilisera le
 module Python « wordcloud » pour la représentation des nuages de mots.
-- Voici un exemple de nuage de mots construit pour le premier document du thème Politics & Law/Commissions & Reports, qui porte sur l’architecture des aéroports.
+- Voici un exemple de nuage de mots construit pour la deuxième document du thème Politics & Law/Commissions & Reports.
 <div align="center">
 <img src="https://github.com/nmh4598/Python-Master/blob/main/S2/Text%20Mining/nuagedemots.png?raw=true" width="45%" style="min-height:'250px'"/>
 </div>
