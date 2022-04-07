@@ -17,7 +17,7 @@ https://www.thecanadianencyclopedia.ca/en/browse/things.
 module Python « wordcloud » pour la représentation des nuages de mots.
 - Voici un exemple de nuage de mots construit pour la deuxième document du thème Politics & Law/Commissions & Reports.
 <div align="center">
-<img src="https://github.com/nmh4598/Python-Master/blob/main/S2/Text%20Mining/nuagedemots.png?raw=true" width="45%" style="min-height:'250px'"/>
+<img src="https://github.com/nmh4598/Python-Master/blob/main/S2/Text_Mining/nuagedemots.png?raw=true" width="45%" style="min-height:'250px'"/>
 </div>
 
 ### 3. nMostSimilar(numDoc, N) 
